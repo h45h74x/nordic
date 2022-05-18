@@ -1,20 +1,39 @@
+![banner (3)](https://user-images.githubusercontent.com/27204033/169149854-f1dbee73-b555-48f6-ac7b-0c2c1c87e16c.png)
+
 # Nordic
 
-![alt text](./nordic.png)
+The nordic theme aims to be an improved alternative for the [official Nord Theme for Visual Studio](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio). 
+It features hand-tuned color combinations to achieve a clean Nord-themed coding experience.
 
+The original colors and recommended color combinations can be found on the [Nord website](https://www.nordtheme.com/) or in the [Nord GitHub repository](https://github.com/arcticicestudio/nord).
 
-The Nordic project is an attempt to create the Nord Theme for Visual Studio 2019/2022. 
+## Installation
 
-It is still in an early state (incorrect color pairings between foreground and background, etc).
+Simply add the Extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=DennisStanze.nordic-001) and restart Visual Studio. 
 
-The colors used for this theme can be found here https://www.nordtheme.com/.
-But The use of colours is not based on the definitions, but rather corresponds to personal taste.
+You can also download the `.vsix` file in the [Releases](https://github.com/dst80/nordic/releases) section and open it with the Visual Studio Installer program (double-click).
 
-Some of the Visual Studio windows cannot be color adjusted. Therefore, these windows do not look like they belong together.
+## Screenshots
 
-If you find an issue with this theme, please contact me so that we can improve the theme together, because the color definition of Nord is just awesome.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27204033/169153031-9f63c573-a468-4ccd-93aa-e22540649986.png">
+</p>
 
-## Thanks to 
+<details>
+  <summary>View More</summary>
+  Coming soon ... :D
+</details>
 
-* burki169
-* Richard Moss
+## Issues
+
+The project is still in an early state of development, therefore you might run into issues like incorrect foreground/background color pairings or invisible text. Feel free to [open an issue](https://github.com/dst80/nordic/issues) or [create a pull request](https://github.com/dst80/nordic/pulls), so we can fix those issues together. 
+
+Also, some Visual Studio windows cannot be themed, leading to inconsistent styles in some parts of the application.
+
+# Thanks to all contributors!
+
+<a href="https://github.com/dst80/nordic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dst80/nordic" />
+</a>
+
+❄️️ Special thanks to Richard Moss
