@@ -5,9 +5,9 @@ on:
     branches:
       - master
   pull_request:
-    types: [opened, reopened, synchronize]
+    types: [synchronize]
   pull_request_target:
-     types: [opened, reopened, synchronize]
+     types: [synchronize]
 
 jobs:
   update_release_draft:
