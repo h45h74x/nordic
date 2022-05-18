@@ -1,10 +1,13 @@
-name: MSBuild
-
+name: Build Project
 on:
   push:
     branches: [ master ]
+    paths:
+      - 'VSThemeProject/**'
   pull_request:
     branches: [ master ]
+    paths:
+      - 'VSThemeProject/**'
 
 env:
   EXTENSION_NAME: nordic
