@@ -29,11 +29,14 @@ You can also download the `.vsix` file in the [Releases](https://github.com/dst8
 The project is still in an early state of development, therefore you might run into issues like incorrect foreground/background color pairings or invisible text. Feel free to [open an issue](https://github.com/dst80/nordic/issues) or [create a pull request](https://github.com/dst80/nordic/pulls), so we can fix those issues together. 
 
 Also, some Visual Studio windows cannot be themed, leading to inconsistent styles in some parts of the application.
-
 # Thanks to all contributors!
 
 <a href="https://github.com/dst80/nordic/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dst80/nordic" />
 </a>
 
-❄️️ Special thanks to Richard Moss
+&nbsp;
+
+❄️️ Special thanks to
+- Richard Moss
+- [h45h74x](https://github.com/h45h74x)
